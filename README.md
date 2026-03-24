@@ -91,6 +91,12 @@ Lexicons are how custom data types are described in AT Protocol. This list is a 
 * Creator [@mchal.lol](https://bsky.app/profile/did:plc:w3aonw33w3mz3mwws34x5of6)
 * Namespace `lol.atmo.*`
 
+## LinkedClaims
+* App https://linkedclaims.com
+* Bluesky Account [@linkedclaims.com](https://bsky.app/profile/linkedclaims.com)
+* GitHub https://github.com/Cooperation-org/claim-atproto
+* Namespace `com.linkedclaims.*`
+
 # Bluesky
 
 The Bluesky team create and manage the Bluesky Lexicon plus steward the atproto core Lexicons and a few related ones like chat and ozone moderation tools.
